@@ -1,0 +1,39 @@
+* {
+  font-family: Helvetica;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+ 
+  color: khaki;
+  text-align: center;
+}
+
+header {
+  background-image: url(/Dasmotos_resources/Images/pattern.jpeg);
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+.price {
+  color: blue;
+
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
